@@ -43,10 +43,12 @@
 
 ## Как запустить локально
 
-1. Клонируйте репозиторий:
+
+ Клонирование  репозиторий:
    ```bash
-   git clone https://github.com/sony777443/PR_07_may_html_MINGBOI_SADDAM_-_32_ISd.git
-```
+   git clone https://github.com/ваш-username/ваш-проект.git
+   cd ваш-проект
+   ```
 <img width="1272" height="500" alt="12" src="https://github.com/user-attachments/assets/107aec12-c538-43bf-b2b6-5a09f6944c17" />
 <img width="1272" height="500" alt="12" src="https://github.com/user-attachments/assets/107aec12-c538-43bf-b2b6-5a09f6944c17" />
 <img width="1272" height="500" alt="12" src="https://github.com/user-attachments/assets/7dea010c-c767-4dbb-a98e-a0f64f073491" />
